@@ -1,7 +1,7 @@
 # 📊 Data Engineering Specialization  
 
 Welcome to the **Data Engineering Specialization** repository!  
-This repository contains my notes, projects, and hands-on work completed while pursuing the **🔗 [IBM Data Engineering Specialization](https://www.coursera.org/professional-certificates/ibm-data-analyst) (16-course series)**.  
+This repository contains my notes, projects, and hands-on work completed while pursuing the **🔗 [Data Engineering Specialization](https://www.coursera.org/professional-certificates/ibm-data-analyst) (16-course series)**.  
 
 Data Engineering is the backbone of modern data-driven industries. It involves designing, building, and managing systems that collect, store, and transform raw data into valuable insights for **Data Scientists, BI Analysts, and AI Engineers**.  
   
